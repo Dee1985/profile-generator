@@ -1,4 +1,6 @@
 # profile-generator
+![profile image](https://github.com/Dee1985/profile-generator/tree/master/assets/images)
+
 
 Live Link: https://dee1985.github.io/profile-generator/
 
