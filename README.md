@@ -1,5 +1,5 @@
 # profile-generator
-![profile image](https://github.com/Dee1985/profile-generator/tree/master/assets/images)
+![profile image]()
 
 
 Live Link: https://dee1985.github.io/profile-generator/
