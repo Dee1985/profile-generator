@@ -1,5 +1,5 @@
 # profile-generator
-![profile image]()
+![profile image](https://github.com/Dee1985/profile-generator/blob/master/assets/images/face-67430_640.jpg)
 
 
 Live Link: https://dee1985.github.io/profile-generator/
