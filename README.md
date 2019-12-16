@@ -5,7 +5,7 @@
 Live Link: https://dee1985.github.io/profile-generator/
 
 
-Description:This repository was for 
+Description: This repository was for 
 
 Usage: The usage of this application is for 
 

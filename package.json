@@ -1,0 +1,25 @@
+{
+  "name": "profile-generator",
+  "version": "1.0.0",
+  "description": "![profile image](https://github.com/Dee1985/profile-generator/blob/master/assets/images/face-67430_640.jpg)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Dee1985/profile-generator.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Dee1985/profile-generator/issues"
+  },
+  "homepage": "https://github.com/Dee1985/profile-generator#readme",
+  "dependencies": {
+    "axios": "^0.19.0",
+    "fs": "0.0.1-security",
+    "inquirer": "^7.0.0",
+    "pdf-puppeteer": "^1.1.9"
+  }
+}
