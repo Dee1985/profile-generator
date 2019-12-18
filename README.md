@@ -10,7 +10,7 @@ Description: This repository was for generating a profile from CLI
 Usage: The usage of this application is for quick "snapshot" of a Github user profile. 
 
 Demo: 
-![demo clip]()
+![demo clip](https://github.com/Dee1985/profile-generator/blob/master/assets/images/profile.gif)
 
 Installation: 
 package.json
