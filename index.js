@@ -13,7 +13,7 @@ inquirer
       name: "username"
     },
     {
-      message: "What is your favorite color?",
+      message: "Enter your favorite color",
       name: "color"
     }
   ])

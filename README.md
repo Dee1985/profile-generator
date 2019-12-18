@@ -5,24 +5,22 @@
 Live Link: https://dee1985.github.io/profile-generator/
 
 
-Description: This repository was for 
+Description: This repository was for generating a profile from CLI
 
-Usage: The usage of this application is for 
+Usage: The usage of this application is for quick "snapshot" of a Github user profile. 
 
-Images: 
+Demo: 
+![demo clip]()
 
-
-
-Finished view: Home Screen
-
-Mobile view: 
-
-Installation: No extra installation requirements for the user.
+Installation: 
+package.json
 
 Contributions: 
+* JS assistanace from peers Jesse Edwards, Ryan Ellingson, TA Brian Bloomquist, and friend Andy Park(github username: atparkweb)
+* styling guidance from peers Jacke O'Toole and Jesse Edwards,
 
-Challenges: 
+Challenges: new to backend dev. 
 
-Successes: 
+Successes: was not able to convert to pdf. 
 
-Roadmap: 
+Roadmap: will need to revisit this assigment at a later time to finish pdf conversion
